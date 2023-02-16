@@ -1,12 +1,2 @@
-hello git!22222
-hello git!33333
-hello git!22222
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!master
-hello git!hot-fix
+this new code!
+first use github
